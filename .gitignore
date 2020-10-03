@@ -3,3 +3,6 @@ mypasswordsfile
 *.c
 *.log
 **/fastq.gz
+!bowtie2.log
+
+
