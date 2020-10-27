@@ -1,0 +1,13 @@
+-rw-r--r-- 1 s2045156 users  884 Oct 27 12:41 AJ223353.fasta
+-rw-r--r-- 1 s2045156 users 3327 Oct 27 12:50 AJ223353.genbank
+-rw-r--r-- 1 s2045156 users  820 Oct 27 12:49 AJ223353_noheader.fasta
+-rw-r--r-- 1 s2045156 users  561 Oct 27 13:02 All_exons.fasta
+-rw-r--r-- 1 s2045156 users  547 Oct 27 13:02 All_noncodings.fasta
+-rw-r--r-- 1 s2045156 users   89 Oct 27 13:01 local_exon01.fasta
+-rw-r--r-- 1 s2045156 users   62 Oct 27 13:02 local_exon02.fasta
+-rw-r--r-- 1 s2045156 users   55 Oct 27 13:01 local_intron01.fasta
+-rwxr-xr-x 1 s2045156 users  136 Oct 27 12:34 plain_genomic_seq.txt
+-rw-r--r-- 1 s2045156 users  408 Oct 27 13:00 remote_exon01.fasta
+-rw-r--r-- 1 s2045156 users   90 Oct 27 12:59 remote_noncoding01.fasta
+-rw-r--r-- 1 s2045156 users  431 Oct 27 13:01 remote_noncoding02.fasta
+-rwxr-xr-x 1 s2045156 users  136 Oct 27 12:35 shutilversion.txt
